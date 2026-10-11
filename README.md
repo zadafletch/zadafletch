@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Zada! 👋
 
-<!--
-**zadafletch/zadafletch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Software Engineer | Business Information Systems Student
 
-Here are some ideas to get you started:
+🎓 **Faulkner University**
+- B.S. in Business – Information Systems
+- Expected Graduation: October 2027
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+I'm an aspiring software engineer with a professional background in leadership, business operations, and customer service.
+
+I'm currently expanding my technical knowledge and exploring software engineering, cloud computing, and artificial intelligence.
+
+## 🚀 My Learning Journey
+I'm beginning to develop skills in:
+- Python programming
+- SQL and databases
+- Git and GitHub
+- Backend development
+- Cloud technologies
+
+## 🛠️ Upcoming Projects
+- Personal Finance Tracker
+- Employee Management System
+- Business Operations Dashboard
+- AI Document Assistant
+
+## 🎯 Career Goals
+My goal is to build a successful career in engineering, continue expanding my technical expertise, and pursue graduate education after completing my bachelor's degree.
+
+I'm interested in internships, mentorship, and opportunities to learn from professionals in the technology industry.
+
